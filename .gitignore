@@ -19,3 +19,4 @@ __pycache__/
 # IDE/editor
 .vscode/
 .idea/
+credentials-demo.txt
