@@ -1,0 +1,21 @@
+# Environment and secrets
+.env
+.env.*
+
+# Allow sanitized template
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE/editor
+.vscode/
+.idea/
